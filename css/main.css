@@ -58,7 +58,7 @@ ul.posts li {
     font-size: 1.75em;    
   }
     
-  p {
+  p, li {
     font-size: 1.25em;
   }
 }
